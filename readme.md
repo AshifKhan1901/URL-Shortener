@@ -14,15 +14,6 @@ This project depends on
 * h2 (for tests)
 * spring-boot-starter-test (for testss)
 
-## Project Build 
-
-To build this project, run
-
-```shell script
-git clone https://github.com/zeeshaanahmad/url-shortener.git
-cd url-shortener
-gradle clean build
-```
 
 ## Deployment
 
@@ -128,5 +119,3 @@ Tested both of the approaches but in case of hashes, sometimes the hashes were l
 * Implement https
 * Mount volumes for MySql container to persist data outside of the container
 
-# Contributors
-email: ahmad.zeeshaan@gmail.com
